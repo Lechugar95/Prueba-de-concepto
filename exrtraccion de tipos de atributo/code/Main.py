@@ -38,9 +38,9 @@ def ParseArgs():
     Args =  argparse.ArgumentParser(description="Classification of Android Applications")
     Args.add_argument("--holdout", type= int, default= 0,
                       help="Type of Classification to be performed (0 for Random Classification and 1 for Holdout Classification")
-    Args.add_argument("--maldir", default= "../data/small_proto_apks/malware",
+    Args.add_argument("--maldir", default= "../data/apks/malware",
                       help= "Absolute path to directory containing malware apks")
-    Args.add_argument("--gooddir", default= "../data/small_proto_apks/goodware",
+    Args.add_argument("--gooddir", default= "../data/apks/goodware",
                       help= "Absolute path to directory containing benign apks")
     Args.add_argument("--testmaldir", default= "../data/apks/malware",
                       help= "Absolute path to directory containing malware apks for testing when performing Holdout Classification")
