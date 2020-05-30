@@ -4,8 +4,8 @@ Created on Sat Nov 10 21:10:09 2018
 
 @author: Sayo Makinwa
 """
-# Importing the libraries
 import pandas as pd
+from sklearn.ensemble import RandomForestClassifier as RFC
 from sklearn.metrics import accuracy_score as acc
 from sklearn.metrics import precision_score as precision
 from sklearn.metrics import recall_score as recall
@@ -21,7 +21,7 @@ y = dataset.iloc[:, 9].values
 
 # Splitting the dataset into the Training set and Test set
 from sklearn.cross_validation import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X, y.astype(int), test_size = 0.3, random_state = 0)
+X_train, X_test, y_train, y_test = train_test_split(X, y.astype(int), test_size = 0.3)
 
 # Feature Scaling
 from sklearn.preprocessing import StandardScaler
@@ -29,19 +29,12 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
-# Fitting Naive Bayes to the Training set
-from sklearn.naive_bayes import GaussianNB
-classifier = GaussianNB()
-classifier.fit(X_train, y_train)
 
-# Predicting the Test set results
-y_pred = classifier.predict(X_test)
-print(y_pred)
+# Fitting RFC to the Training set
+clf = RFC().fit(X_train, y_train)
 
-# Making the Confusion Matrix
-from sklearn.metrics import confusion_matrix
-cm = confusion_matrix(y_test, y_pred)
-print('Confusion Matrix', cm)
+# use our model to predict
+y_pred = clf.predict(X_test)
 
 #compute accuracy_score
 accuracy = acc(y_test, y_pred)
