@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/exrtraccion de tipos de atributo/Androguard/elsim" vcs="hg4idea" />
     <mapping directory="$PROJECT_DIR$/exrtraccion de tipos de atributo/code/Androguard/elsim" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/extraccion de tipos de atributo/code/Androguard/elsim" vcs="hg4idea" />
   </component>
 </project>
