@@ -11,9 +11,8 @@ from sklearn.metrics import recall_score as recall
 from sklearn.metrics import f1_score as f1
 
 # paths to fill
-feature_of_counts = "/home/lechu/Documents/UL/2020-1/PoC/frameworks/clasificacion/drebin-malware-analysis_sayomakinwa" \
-                    "/processed_data/feature_vectors_counts.csv"
-# feature_of_counts = "/home/lechu/Documents/UL/2020-1/PoC/frameworks/clasificacion/drebin-malware-analysis_sayomakinwa/processed_data/feature_vectors_counts.csv"
+feature_of_counts = \
+    "/home/lechu/Documents/GitHub/Prueba-de-concepto/seleccion_caracteristicas/processed_data/feature_vectors_counts.csv"
 
 # Importing the dataset
 dataset = pd.read_csv(feature_of_counts, index_col=0)
