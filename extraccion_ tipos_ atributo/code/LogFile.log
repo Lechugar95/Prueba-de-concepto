@@ -1,0 +1,223 @@
+2020/05/30 15:44:41 GetApkData.py[line:266] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk...
+2020/05/30 15:44:41 GetApkData.py[line:266] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:44:42 GetApkData.py[line:228] ERROR: 'ascii' codec can't encode characters in position 22-23: ordinal not in range(128)
+2020/05/30 15:44:42 GetApkData.py[line:229] ERROR: Executing Androlyze on /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk Failed.
+2020/05/30 15:44:42 GetApkData.py[line:321] ERROR: 'NoneType' object is not iterable
+2020/05/30 15:44:42 GetApkData.py[line:322] ERROR: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk processing failed in 0.0976841449738s...
+2020/05/30 15:45:23 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/30 15:45:23 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/30 15:45:23 GetApkData.py[line:327] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 41.8784239292s
+2020/05/30 15:45:25 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/30 15:45:25 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk', False), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/30 15:45:25 CommonModules.py[line:90] INFO: Time Elapsed: 43.05s, or 0.72mins, or 0.01hours
+2020/05/30 15:53:15 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk...
+2020/05/30 15:53:15 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:53:15 GetApkData.py[line:229] ERROR: 'ascii' codec can't encode characters in position 22-23: ordinal not in range(128)
+2020/05/30 15:53:15 GetApkData.py[line:230] ERROR: Executing Androlyze on /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk Failed.
+2020/05/30 15:53:15 GetApkData.py[line:322] ERROR: 'NoneType' object is not iterable
+2020/05/30 15:53:15 GetApkData.py[line:323] ERROR: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk processing failed in 0.139019966125s...
+2020/05/30 15:53:32 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk...
+2020/05/30 15:53:32 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:53:32 GetApkData.py[line:229] ERROR: 'ascii' codec can't encode characters in position 22-23: ordinal not in range(128)
+2020/05/30 15:53:32 GetApkData.py[line:230] ERROR: Executing Androlyze on /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk Failed.
+2020/05/30 15:53:32 GetApkData.py[line:322] ERROR: 'NoneType' object is not iterable
+2020/05/30 15:53:32 GetApkData.py[line:323] ERROR: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk processing failed in 0.105782985687s...
+2020/05/30 15:53:53 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk...
+2020/05/30 15:53:53 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:53:53 GetApkData.py[line:229] ERROR: 'ascii' codec can't encode characters in position 22-23: ordinal not in range(128)
+2020/05/30 15:53:53 GetApkData.py[line:230] ERROR: Executing Androlyze on /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk Failed.
+2020/05/30 15:53:53 GetApkData.py[line:322] ERROR: 'NoneType' object is not iterable
+2020/05/30 15:53:53 GetApkData.py[line:323] ERROR: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk processing failed in 0.0834140777588s...
+2020/05/30 15:54:24 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk...
+2020/05/30 15:54:24 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:54:24 GetApkData.py[line:229] ERROR: 'ascii' codec can't encode characters in position 22-23: ordinal not in range(128)
+2020/05/30 15:54:24 GetApkData.py[line:230] ERROR: Executing Androlyze on /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk Failed.
+2020/05/30 15:54:24 GetApkData.py[line:322] ERROR: 'NoneType' object is not iterable
+2020/05/30 15:54:24 GetApkData.py[line:323] ERROR: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk processing failed in 0.0812819004059s...
+2020/05/30 15:55:08 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/30 15:55:08 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/30 15:55:08 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 44.623352766s
+2020/05/30 15:55:10 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/30 15:55:10 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/administr.huhugame.apk', False), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/30 15:55:10 CommonModules.py[line:90] INFO: Time Elapsed: 46.06s, or 0.77mins, or 0.01hours
+2020/05/30 15:55:41 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/30 15:55:41 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:55:42 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/30 15:55:42 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/05/30 15:55:42 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.891446113586s
+2020/05/30 15:56:24 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/30 15:56:24 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/30 15:56:24 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 42.7384009361s
+2020/05/30 15:56:25 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/30 15:56:25 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/30 15:56:25 CommonModules.py[line:90] INFO: Time Elapsed: 44.05s, or 0.73mins, or 0.01hours
+2020/05/30 15:58:14 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 15:59:00 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/30 15:59:00 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/30 15:59:00 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 45.4647750854s
+2020/05/30 15:59:01 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/30 15:59:01 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/30 15:59:01 CommonModules.py[line:90] INFO: Time Elapsed: 47.06s, or 0.78mins, or 0.01hours
+2020/05/30 16:00:21 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 16:07:12 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/30 16:14:07 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/30 16:14:07 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/30 16:14:08 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/30 16:14:08 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/05/30 16:14:08 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.847311973572s
+2020/05/30 16:14:53 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/30 16:14:53 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/30 16:14:53 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 46.0335428715s
+2020/05/30 16:14:55 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/30 16:14:55 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/30 16:14:55 CommonModules.py[line:90] INFO: Time Elapsed: 48.05s, or 0.80mins, or 0.01hours
+2020/05/31 14:25:10 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/31 14:25:10 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/31 14:25:11 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/31 14:25:11 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/05/31 14:25:11 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.877460002899s
+2020/05/31 14:26:00 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/31 14:26:00 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/31 14:26:00 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 50.006469965s
+2020/05/31 14:26:02 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/31 14:26:02 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/31 14:26:02 CommonModules.py[line:90] INFO: Time Elapsed: 52.05s, or 0.87mins, or 0.01hours
+2020/05/31 15:56:03 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/31 15:56:03 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/31 15:56:04 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/31 15:56:04 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/05/31 15:56:04 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.911390066147s
+2020/05/31 15:56:47 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/31 15:56:47 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/31 15:56:47 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 44.0520579815s
+2020/05/31 15:56:49 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/31 15:56:49 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/31 15:56:49 CommonModules.py[line:90] INFO: Time Elapsed: 46.06s, or 0.77mins, or 0.01hours
+2020/05/31 16:16:19 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/31 16:16:19 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/31 16:16:20 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/31 16:16:20 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/05/31 16:16:20 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.747915029526s
+2020/05/31 16:17:01 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/31 16:17:01 GetApkData.py[line:88] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/05/31 16:17:01 GetApkData.py[line:328] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 41.8604588509s
+2020/05/31 16:17:03 CommonModules.py[line:86] INFO: Processing finished.
+2020/05/31 16:17:03 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion de tipos de atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/05/31 16:17:03 CommonModules.py[line:90] INFO: Time Elapsed: 43.69s, or 0.73mins, or 0.01hours
+2020/05/31 18:47:47 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/31 18:47:47 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/31 18:47:51 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/31 18:51:37 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/05/31 18:56:09 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/05/31 18:56:09 GetApkData.py[line:267] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/05/31 18:57:11 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/05/31 19:02:05 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 10:59:16 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 10:59:16 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 10:59:17 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 10:59:17 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/06/01 10:59:17 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.78389787674s
+2020/06/01 11:00:00 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 11:00:00 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/06/01 11:00:00 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 43.3156919479s
+2020/06/01 11:00:01 CommonModules.py[line:86] INFO: Processing finished.
+2020/06/01 11:00:01 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/06/01 11:00:01 CommonModules.py[line:90] INFO: Time Elapsed: 45.05s, or 0.75mins, or 0.01hours
+2020/06/01 11:09:19 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:09:19 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:09:20 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:09:20 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/06/01 11:09:20 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.802006006241s
+2020/06/01 11:10:03 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 11:10:03 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/06/01 11:10:03 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 43.6942119598s
+2020/06/01 11:10:04 CommonModules.py[line:86] INFO: Processing finished.
+2020/06/01 11:10:04 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/06/01 11:10:04 CommonModules.py[line:90] INFO: Time Elapsed: 45.05s, or 0.75mins, or 0.01hours
+2020/06/01 11:10:22 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:10:22 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:10:23 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:10:23 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/06/01 11:10:23 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.844696044922s
+2020/06/01 11:11:01 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:11:01 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:11:31 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:16:18 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 11:17:31 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:17:31 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:17:32 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:17:32 GetApkData.py[line:91] ERROR: [Errno 20] Not a directory: '/home/lechu/Documents/GitHub/Prueba-de-concepto/seleccion_caracteristicas/raw_data/feature_vectors/ /agkrf.ajeuv.uhf.txt'
+2020/06/01 11:17:32 GetApkData.py[line:92] ERROR: Text data writing Failed.
+2020/06/01 11:17:32 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.786373138428s
+2020/06/01 11:18:15 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 11:18:15 GetApkData.py[line:91] ERROR: [Errno 2] No such file or directory: '/home/lechu/Documents/GitHub/Prueba-de-concepto/seleccion_caracteristicas/raw_data/feature_vectors/ /aidapp.newsportalmeghalaya.txt'
+2020/06/01 11:18:15 GetApkData.py[line:92] ERROR: Text data writing Failed.
+2020/06/01 11:18:15 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 43.3343701363s
+2020/06/01 11:18:16 CommonModules.py[line:86] INFO: Processing finished.
+2020/06/01 11:18:16 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/06/01 11:18:16 CommonModules.py[line:90] INFO: Time Elapsed: 45.05s, or 0.75mins, or 0.01hours
+2020/06/01 11:18:46 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:18:46 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:18:47 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:18:47 GetApkData.py[line:91] ERROR: [Errno 2] No such file or directory: '/home/lechu/Documents/GitHub/Prueba-de-concepto/seleccion_caracteristicas/raw_data/feature_vectors /agkrf.ajeuv.uhf.txt'
+2020/06/01 11:18:47 GetApkData.py[line:92] ERROR: Text data writing Failed.
+2020/06/01 11:18:47 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 0.868010044098s
+2020/06/01 11:19:01 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:19:01 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:19:03 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:19:03 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/06/01 11:19:03 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 1.09109902382s
+2020/06/01 11:19:47 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 11:19:47 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/06/01 11:19:47 GetApkData.py[line:336] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 45.5370278358s
+2020/06/01 11:19:48 CommonModules.py[line:86] INFO: Processing finished.
+2020/06/01 11:19:48 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/06/01 11:19:48 CommonModules.py[line:90] INFO: Time Elapsed: 47.05s, or 0.78mins, or 0.01hours
+2020/06/01 11:20:23 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 11:20:23 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:20:49 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 11:22:00 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:22:51 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:24:59 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 11:25:41 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 11:25:41 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/06/01 11:25:41 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 42.005603075s
+2020/06/01 11:25:42 CommonModules.py[line:86] INFO: Processing finished.
+2020/06/01 11:25:42 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk', True)]
+2020/06/01 11:25:42 CommonModules.py[line:90] INFO: Time Elapsed: 43.06s, or 0.72mins, or 0.01hours
+2020/06/01 11:26:29 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/WGZ.IwzUknk.fQUlB.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/waymocktest.com.ctetexampaper.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/ws.rgmnphji.hrjvks.puvjopjo.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/yio.tro.opacha.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/za.cv.fiai.apk...
+2020/06/01 13:01:57 GetApkData.py[line:275] INFO: Start to process /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/zooJigsawPuzzleGames.bestappdev.apk...
+2020/06/01 13:01:57 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/ws.rgmnphji.hrjvks.puvjopjo.data written successfully.
+2020/06/01 13:01:57 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/ws.rgmnphji.hrjvks.puvjopjo written successfully.
+2020/06/01 13:01:57 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/ws.rgmnphji.hrjvks.puvjopjo.apk processed successfully in 0.416467189789s
+2020/06/01 13:01:58 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.data written successfully.
+2020/06/01 13:01:58 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf written successfully.
+2020/06/01 13:01:58 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk processed successfully in 1.42112493515s
+2020/06/01 13:02:00 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/waymocktest.com.ctetexampaper.data written successfully.
+2020/06/01 13:02:00 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/waymocktest.com.ctetexampaper written successfully.
+2020/06/01 13:02:00 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/waymocktest.com.ctetexampaper.apk processed successfully in 2.81253504753s
+2020/06/01 13:02:03 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/za.cv.fiai.data written successfully.
+2020/06/01 13:02:03 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/za.cv.fiai written successfully.
+2020/06/01 13:02:03 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/za.cv.fiai.apk processed successfully in 5.77838993073s
+2020/06/01 13:02:16 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/zooJigsawPuzzleGames.bestappdev.data written successfully.
+2020/06/01 13:02:16 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/zooJigsawPuzzleGames.bestappdev written successfully.
+2020/06/01 13:02:16 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/zooJigsawPuzzleGames.bestappdev.apk processed successfully in 18.7465450764s
+2020/06/01 13:02:17 CommonModules.py[line:86] INFO: Processing finished.
+2020/06/01 13:02:17 CommonModules.py[line:87] INFO: Processing results: [('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/ws.rgmnphji.hrjvks.puvjopjo.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/agkrf.ajeuv.uhf.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/waymocktest.com.ctetexampaper.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/za.cv.fiai.apk', True), ('/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/zooJigsawPuzzleGames.bestappdev.apk', True)]
+2020/06/01 13:02:17 CommonModules.py[line:90] INFO: Time Elapsed: 20.03s, or 0.33mins, or 0.01hours
+2020/06/01 13:02:22 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/yio.tro.opacha.data written successfully.
+2020/06/01 13:02:22 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/yio.tro.opacha written successfully.
+2020/06/01 13:02:22 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/yio.tro.opacha.apk processed successfully in 24.6765680313s
+2020/06/01 13:02:32 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/WGZ.IwzUknk.fQUlB.data written successfully.
+2020/06/01 13:02:32 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/WGZ.IwzUknk.fQUlB written successfully.
+2020/06/01 13:02:32 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/WGZ.IwzUknk.fQUlB.apk processed successfully in 35.5230941772s
+2020/06/01 13:02:43 CommonModules.py[line:323] INFO: Json data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.data written successfully.
+2020/06/01 13:02:43 GetApkData.py[line:96] INFO: Text data of /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya written successfully.
+2020/06/01 13:02:43 GetApkData.py[line:337] INFO: /home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/goodware/aidapp.newsportalmeghalaya.apk processed successfully in 45.7411470413s
