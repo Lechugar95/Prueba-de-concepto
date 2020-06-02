@@ -25,6 +25,9 @@ En este ejemplo, se activó el entorno virtual de python 2.7 para usar en la pri
 Para activar el entorno virtual de python 3, el cual se usa en la segunda y tercera etapa, se usa un comando simmilar
 <code>  source venv-3.8/bin/activate </code>
 
+![Ejemplo: activar entorno virtual](https://github.com/Lechugar95/Prueba-de-concepto/tree/master/entorno_virtual_(venv)/activacion_venv/activar_venv1.png)
+![Ejemplo: activar entorno virtual](https://github.com/Lechugar95/Prueba-de-concepto/tree/master/entorno_virtual_(venv)/activacion_venv/activar_venv2.png)
+
 Una vez activado el entorno virtual, continúa con la instalación de las librerías.
 
 ### 1ra. Etapa: Extracción de tipos de atributo ###
