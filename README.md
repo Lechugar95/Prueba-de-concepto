@@ -12,7 +12,7 @@ metodologías de 2 autores.
 3. Selección de características
 4. Modelo de clasificación
 
-#### Observaciones importantes antes de ejecutar el código ####
+## Observaciones importantes antes de ejecutar el código ##
 * El repositorio tiene dos carpetas de entorno virtual: uno de Python 2.7 y otro de Python 3. El primero se usa en la 
 Extracción de características y el segundo en para Selección de características y el Modelo de clasificación.
 * Estos entornos ya contienen las librerías necesarias para ejecutar el código; por lo tanto, solo falta activarlos para
@@ -47,7 +47,7 @@ instalar las siguientes librerías:
 </code>
 
 #### Observaciones importantes ####
-* Las versión indicada en cada librería fue usada para ejecutar el código de esta etapa.
+* La versión indicada en cada librería fue usada para ejecutar el código de esta etapa.
 * En el caso de las librerías <code> joblib, networkx, numpy y scikit-learn </code> existe una versión más actual; 
 sin embargo no son compatibles en python 2, sino con python 3.
 
