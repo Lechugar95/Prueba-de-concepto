@@ -1,5 +1,9 @@
+__title__ = ''
+__author__ = 'Claudio Mori'
+__credits__ = 'Sayo Makinwa'
+__copyright__ = 'Copyright 2020, Thesis Project'
+
 # coding=utf-8
-# import libraries
 import pandas as pd
 import numpy as np
 import os

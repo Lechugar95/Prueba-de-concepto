@@ -1,3 +1,8 @@
+__title__ = ''
+__author__ = 'Claudio Mori'
+__credits__ = 'Annamalai Narayanan'
+__copyright__ = 'Copyright 2020, Thesis Project'
+
 # coding=utf-8
 import sys
 # reload(sys)
@@ -139,7 +144,7 @@ def GetFromXML(ApkDirectoryPath, ApkFile):
         a = androlyze.APK(ApkFile)
         # f = open(xmlfilepath, "w")
         f = open(os.path.splitext(ApkFile)[0] + ".xml", "w")
-        f.write((a.xml["AndroidManifest.xml"].toprettyxml()).encode("utf-8"))
+        f.write((a.xml["AndroidManifest.xml"].toprettyxml(indent="    ")).encode("utf-8", errors='strict'))
         f.close()
 
         # ruta donde se creará el archivo .xml del apk
@@ -320,7 +325,7 @@ def ProcessingDataForGetApkData(ApkDirectoryPath, ApkFile, PMap):
         vector_data_name = os.path.split(vector_txt_filepath)[1]
         # mover archivo .data de la carpeta malware/goodware a la carpeta vector_data
         shutil.move(vector_txt_filepath, join_dir(vector_data, vector_data_name))
-        print("Archivo " + vector_data_name + " creado correspondiente a la aplicación " + ApkFile)
+        #print("Archivo " + vector_data_name + " creado correspondiente a la aplicación " + ApkFile)
         # ruta del archivo sin extensión .data
         filepath = os.path.splitext(ApkFile)[0]
         # llamar función para generar archivo .txt con nuevo formato
@@ -360,8 +365,13 @@ def GetApkData(ProcessNumber, *ApkDirectoryPaths):
     ProcessingResults = []
     ScheduledTasks = []
     ProgressBar = CM.ProgressBar()
+    vd_mw = "/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ atributo/data/apks/malware/vector_data/"
+    vd_gw = "/home/lechu/Documents/GitHub/Prueba-de-concepto/extraccion_ tipos_ " \
+            "atributo/data/apks/goodware/vector_data/ "
+
     for ApkFile in ApkFileList:
-        if CM.FileExist(os.path.splitext(ApkFile)[0] + ".data"):
+        # if CM.FileExist(os.path.splitext(ApkFile)[0] + ".data"):
+        if CM.FileExist(vd_mw + ApkFile.rsplit('/', 1)[1].rsplit('.', 1)[0] + ".data") or CM.FileExist(vd_gw + ApkFile.rsplit('/', 1)[1].rsplit('.', 1)[0] + ".data"):
             pass
         else:
             # ProcessingDataForGetApkData(ApkDirectoryPath, ApkFile, PMap)

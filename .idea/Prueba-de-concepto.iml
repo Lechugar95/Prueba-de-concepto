@@ -5,12 +5,13 @@
       <excludeFolder url="file://$MODULE_DIR$/venv-2.7" />
       <excludeFolder url="file://$MODULE_DIR$/venv-3.8" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (venvprueba)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (Prueba-de-concepto)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
     <option name="myDocStringFormat" value="Plain" />
+    <option name="renderExternalDocumentation" value="true" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

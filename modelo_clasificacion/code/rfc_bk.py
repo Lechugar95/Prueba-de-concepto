@@ -1,9 +1,6 @@
-
-"""
-Created on Sat Nov 10 21:10:09 2018
-
-@author: Sayo Makinwa
-"""
+__title__ = ''
+__author__ = 'Sayo Makinwa'
+__copyright__ = 'Copyright 2020, Thesis Project'
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier as RFC
 from sklearn.metrics import accuracy_score as acc

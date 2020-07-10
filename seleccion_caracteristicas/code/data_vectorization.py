@@ -1,3 +1,8 @@
+__title__ = ''
+__author__ = 'Claudio Mori'
+__credits__ = 'Sayo Makinwa'
+__copyright__ = 'Copyright 2020, Thesis Project'
+
 # coding=utf-8
 # import libraries
 import pandas as pd
@@ -185,7 +190,8 @@ def create_csv_for_sha_data():
     """
     # define los encabezados para el archivo feature_of_counts_temp.csv
     # header = ['sha256', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 's8']
-    header = ['apkname', 'f1', 'f2', 'f3', 'f4', 'f5', 'f6', 'f7', 'f8', 'f9', 'f10', 'f11']
+    header = ['apkname', 'actividades', 'proveedor_contenido', 'receptor_mensajes', 'servicios', 'urls', 'filtros_intent',
+              'api_restringidas', 'api_sospechosas', 'permisos_solicitados', 'permisos_usados', 'uses-feature']
     # abre el archivo feature_of_counts_temp en modo escritura para escribir la cantidad características de cada tipo
     # de los apks
     # with open(feature_of_counts_temp, 'wt', newline='') as file:
