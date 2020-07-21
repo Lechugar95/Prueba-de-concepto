@@ -114,10 +114,41 @@ def evaluate(model_name, model, testing_features, test_labels):
     recall_score = recall(test_labels, predictions)
     f1_score = f1(test_labels, predictions)
     print('Model Performance del' + model_name)
-    print('Error Rate: {:0.6f} degrees.'.format(error_rate))
-    print('Accuracy = {:0.6f}%.'.format(accuracy))
-    print('Precision = {:0.6f}%.'.format(precision_score))
-    print('Recall = {:0.6f}%.'.format(recall_score))
-    print('F1 Score = {:0.6f}%.'.format(f1_score))
+    print('Error Rate: {:0.2f}%.'.format(100 * error_rate))
+    print('Accuracy = {:0.2f}%.'.format(100 * accuracy))
+    print('Precision = {:0.2f}%.'.format(100 * precision_score))
+    print('Recall = {:0.2f}%.'.format(100 * recall_score))
+    print('F1 Score = {:0.2f}%.'.format(100 * f1_score))
 
     return predictions, error_rate, accuracy, precision_score, recall_score, f1_score
+
+
+def plot_results(model, param='n_estimators', name='Num Trees'):
+    param_name = 'param_%s' % param
+
+    # Extract information from the cross validation model
+    train_scores = (-1) * model.cv_results_['mean_train_score']
+    test_scores = (-1) * model.cv_results_['mean_test_score']
+    train_time = model.cv_results_['mean_fit_time']
+    param_values = list(model.cv_results_[param_name])
+
+    # Plot the scores over the parameter
+    plt.subplots(1, 2, figsize=(10, 6))
+    plt.subplot(121)
+    plt.plot(param_values, train_scores, 'bo-', label='train')
+    plt.plot(param_values, test_scores, 'go-', label='test')
+    plt.ylim(ymin=-10, ymax=0)
+    plt.legend()
+    plt.xlabel(name)
+    plt.ylabel('Neg Mean Absolute Error')
+    plt.title('Score vs %s' % name)
+    plt.show()
+
+    plt.subplot(122)
+    plt.plot(param_values, train_time, 'ro-')
+    plt.ylim(ymin=0.0, ymax=2.0)
+    plt.xlabel(name)
+    plt.ylabel('Train Time (sec)')
+    plt.title('Training Time vs %s' % name)
+    plt.tight_layout(pad=4)
+    plt.show()
